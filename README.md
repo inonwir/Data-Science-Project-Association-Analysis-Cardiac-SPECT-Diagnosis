@@ -1,4 +1,4 @@
-# Association-Analysis-Cardiac-SPECT-Diagnosis
+# Data Science Project - Association-Analysis-Cardiac-SPECT-Diagnosis
 
 # Objective
 To use data mining technique with SPECT dataset in order to perform Apriori association
