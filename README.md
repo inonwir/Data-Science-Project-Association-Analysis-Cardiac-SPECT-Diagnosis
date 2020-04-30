@@ -1,6 +1,6 @@
 # Association-Analysis-Cardiac-SPECT-Diagnosis
 
-# Object
+# Objective
 To use data mining technique with SPECT dataset in order to perform Apriori association
 analysis on each type of patients, and find 5 rules for each type of patients.
 
